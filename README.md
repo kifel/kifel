@@ -1,6 +1,8 @@
 ### Olá! eu sou o Kifel (João Victor)
 ### Estudante de Engenharia Elétrica - CEFET/RJ⚡⚡
 
+Me odeie, me amaldiçoe, e fuja, fuja… Viva uma vida miserável correndo e se escondendo. Então, quando você tiver os mesmos CODIGOS que eu, me procure.
+
 
 <div align="center">
   <a href="https://github.com/kifel">
@@ -14,7 +16,7 @@
   <img align="center" alt="Kifel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Kifel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
-
+  
   ##
   
 <div> 
