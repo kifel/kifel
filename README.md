@@ -1,5 +1,8 @@
 ### Olá! eu sou o Kifel (João Victor)
 ### Estudante de Engenharia Elétrica - CEFET/RJ⚡⚡
+### Residência em TIC | Serratec 🚀🚀
+
+  ##
 
 
 <div align="center">
