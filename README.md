@@ -21,19 +21,20 @@
   <img align="center" alt="Kifel-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
    
- <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br><br><br>
   <h2>Some of the Tools I Use</h2>
   <img align="center" alt="Kifel-VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Kifel-GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Kifel-GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
     
-<div>
+<div><br><br><br>
   <h2>Connect with me</h2>
   	<a href="https://twitter.com/KifelG_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/8p2VKTJBnw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaovictorm.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+ <br><br>
  
   ![Snake animation](https://github.com/kifel/kifel/blob/output/github-contribution-grid-snake.svg)
  
