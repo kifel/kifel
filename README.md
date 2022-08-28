@@ -11,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <h2>Tecnologia que uso:</h2>
+  <h2>My Skills</h2>
   <img align="center" alt="Kifel-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Kifel-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Kifel-JAVA-C"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,14 +22,14 @@
 </div>
    
  <div style="display: inline_block"><br>
-  <h2>Ferramentas que utilizo</h2>
+  <h2>Some of the Tools I Use</h2>
   <img align="center" alt="Kifel-VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Kifel-GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Kifel-GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
     
 <div>
-  <h2>Redes socias para contato</h2>
+  <h2>Connect with me</h2>
   	<a href="https://twitter.com/KifelG_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/8p2VKTJBnw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaovictorm.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
