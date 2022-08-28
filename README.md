@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor+(kifel);I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Estudante de Engenharia Elétrica - CEFET/RJ⚡⚡
+### Studying Electrical Engineering - CEFET/RJ⚡⚡
 ### Residência em TIC | Serratec 🚀🚀
 
   ##
