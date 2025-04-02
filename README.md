@@ -39,9 +39,5 @@
  <a href="https://discord.gg/8p2VKTJBnw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kifelbin.nemeses856@passinbox.com"><img src="https://img.shields.io/badge/-proton-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kifel/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- <br><br>
- 
-  ![Snake animation](https://github.com/kifel/kifel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
