@@ -1,31 +1,92 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor+(kifel);I'm+21+years+old;Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
-### Studying SI - CEFET/RJ⚡⚡
-### Residência em TIC | Serratec 🚀🚀
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6DB33F&size=32&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+João+Victor+%28kifel%29;Software+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <h2>My Skills</h2>
-  <img align="center" alt="Kifel-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Kifel-Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Kifel-REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Kifel-TAILWINDCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss">
-  <img align="center" alt="Kifel-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Kifel-TOVS" src="https://img.shields.io/badge/TOTVS-ADVPL/TLPP-blue?logo=totvs">
+# João Victor
+
+**Software Developer | Information Systems Student**
+
+Studying **Information Systems at CEFET/RJ** ⚡  
+**Residência em TIC | Serratec** 🚀
+
+I enjoy building secure, maintainable and well-structured applications, with a strong focus on backend development, authentication, APIs and modern web applications.
+
 </div>
-   
- <div style="display: inline_block"><br><br><br>
-  <h2>Some of the Tools I Use</h2>
-  <img align="center" alt="Kifel-VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Kifel-GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Kifel-GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Kifel-INSOMNIA" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-  <img align="center" alt="Kifel-NODE" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
-    
-<div><br><br><br>
-  <h2>Connect with me</h2>
-  <a href = "mailto:kifelbin.nemeses856@passinbox.com"><img src="https://img.shields.io/badge/-proton-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kifel/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+
+---
+
+## 💻 Technologies
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
+</p>
+
+### Enterprise Development
+
+<p>
+  <img src="https://img.shields.io/badge/TOTVS-ADVPL%20%2F%20TLPP-0066B3?style=for-the-badge" alt="TOTVS ADVPL/TLPP">
+</p>
+
+---
+
+## 🛠️ Tools & Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno">
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify">
+</p>
+
+---
+
+## 🚀 What I'm working with
+
+Currently focused on building applications using:
+
+- **Java & Spring Boot** for backend services and APIs
+- **Next.js & React** for modern web applications
+- **Authentication & application security**
+- **REST APIs and system integrations**
+- **PostgreSQL** for relational data
+- **Docker & Coolify** for application deployment
+- **TOTVS Protheus**, ADVPL and TLPP for enterprise solutions
+
+---
+
+## 📫 Connect with me
+
+<p>
+  <a href="mailto:kifelbin.nemeses856@passinbox.com">
+    <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail">
+  </a>
+  <a href="https://www.linkedin.com/in/kifel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
 </div>
