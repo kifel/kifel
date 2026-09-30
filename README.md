@@ -25,8 +25,6 @@
     
 <div><br><br><br>
   <h2>Connect with me</h2>
-  	<a href="https://twitter.com/KifelG_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/8p2VKTJBnw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kifelbin.nemeses856@passinbox.com"><img src="https://img.shields.io/badge/-proton-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kifel/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
